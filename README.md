@@ -38,7 +38,3 @@ Simple Instructions:
 > * (E.g. `FY13/14`)
 >
 > You will be given output in the form of a comma-delimited .INP file or .XLS spreadsheet.
-
-## Additional Information
-* This utility is licensed under [Creative Commons Attribution 4.0 International](http://creativecommons.org/license/by/4.0/ "CC BY 4.0")
-* Simply put, you can use this however you want; but you must give credit for the original works.
